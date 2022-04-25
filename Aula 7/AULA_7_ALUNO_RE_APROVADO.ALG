@@ -1,8 +1,8 @@
 Algoritmo "Aula_7_Aluno_Re_Aprovado"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : Algoritmo
+// Professor   : Gustavo Guanabara
+// Descrição   : Aula 7 – Estruturas Condicionais 1
+// Autor(a)    : Camila Carla Soares
 // Data atual  : 18/04/2022
 Var
    // Seção de Declarações das variáveis
